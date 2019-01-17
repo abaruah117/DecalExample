@@ -1,5 +1,5 @@
 import React from "react";
-import axios from "./axios.js";
+import axios from "../axios.js";
 import WeatherData from "./WeatherData.js";
 class WeatherForm extends React.Component {
   constructor(props) {
